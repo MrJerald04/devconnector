@@ -1,5 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://je123:je123@cluster0-ee8v4.mongodb.net/test?retryWrites=true&w=majority",
-
-  "jwtToken": "musecretetoken"
+    "mongoURI": "mongodb+srv://je123:je123@cluster0-ee8v4.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtToken": "musecretetoken",
+    "githubClientId": "ade263134d65fab4dfd5",
+    "githubSecret": "ef42f58dbd1a498e50d3f02f1b68ee7f8165fee0"
 }
